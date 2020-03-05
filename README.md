@@ -1,4 +1,4 @@
 # hello-world
 First Attempt
 
-Nothing exciting about me
+gets easily bored
